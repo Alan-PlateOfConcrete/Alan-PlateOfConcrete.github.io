@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>Alan-PlateOfConcrete.github.io</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="Style.css">
     </head>
     <body>
         <header>
